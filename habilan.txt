@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is first file
+=======
+this is first line
+This is second line 
+This is third line
+>>>>>>> 1d36c00e26a3d152f98d87588619c030a6de3fd5
